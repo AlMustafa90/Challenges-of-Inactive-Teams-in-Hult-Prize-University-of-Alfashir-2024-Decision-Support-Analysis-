@@ -1,0 +1,2 @@
+# Challenges-of-Inactive-Teams-in-Hult-Prize-University-of-Alfashir-2024-Decision-Support-Analysis-
+This report investigates the challenges that limited the effectiveness and performance of competing teams, particularly the reduced participation of many members in scheduled lectures and events. The analysis aims to highlight the root causes of these challenges and suggest ways to improve team engagement and outcomes in the competitions.
