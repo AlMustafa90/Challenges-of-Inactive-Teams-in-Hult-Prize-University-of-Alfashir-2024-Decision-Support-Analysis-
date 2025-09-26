@@ -1,4 +1,4 @@
-# Analysis of the Main Problems Facing Teams in the Hall Prize Competition – Al Fashir University 2024
+# Analysis of the Main Problems Facing Teams in the Hult Prize Competition – Al Fashir University 2024
 This report investigates the challenges that limited the effectiveness and performance of competing teams, particularly the reduced participation of many members in scheduled lectures and events. The analysis aims to highlight the root causes of these challenges and suggest ways to improve team engagement and outcomes in the competitions.
 
 # Data Collection
